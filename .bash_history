@@ -179,3 +179,41 @@ gpasswd -a sambi test
 cat test /etc/group
 tail -4 /etc/group
 gpasswd -L test
+pwd
+git --version
+git--version
+git init .
+yum install git -y
+git --version
+git init .
+ll
+ls
+touch file2
+ls
+git status
+git add file1 file2
+git status
+git add .
+git status
+git commit -m "file1commit" 
+git status
+ls
+git add file1
+git status
+git commit -m "file1commit" 
+cd sample
+ll
+cd ..
+git commit -m "file1commit" 
+git config --global user.name "vamshi9133"
+git config --global user.email"vamshi123@gmail.com"
+git commit -m "file1commit" 
+git status
+git log
+git remote add origin https://github.com/vamshi9133/SAI.git
+git remote
+git branch -M main
+git push -u origin main
+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
+git push -u origin main
+exit
